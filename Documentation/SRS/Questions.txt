@@ -1,0 +1,7 @@
+-what are the defined fields for each format re in/out statements
+
+-What its meant by splits?
+
+-Easier way to deal with escrow (will expand on 
+
+-What is meant by catalog?
